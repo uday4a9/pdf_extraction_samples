@@ -5,7 +5,7 @@ command: python3 -m pip install -r requirements.txt
     
     $python3 amz_ecom_invoice_extractor.py ~/Downloads/invoice.pdf
         {
-        "/Users/uvadavalasa/Downloads/invoice.pdf": {
+        "/Users/uday/Downloads/invoice.pdf": {
             "items": [
             "Dettol Liquid Handwash Refill - Skincare Moisturizing Hand Wash, 1500 ml (Price offer) | Antibacterial Formula | 10x Better Germ Protection | B07M9XYH9K ( B07M9XYH9K )  HSN:34013090",
             "Surf Excel Matic Top Load Liquid Detergent 2 L Refill, Designed For Tough Stain Removal on Laundry in Washing Machines - Super Saver Offer Pack | B07F8D6QLL ( B07F8D6QLL )  HSN:34022010"
